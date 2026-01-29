@@ -17,7 +17,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import androidx.lifecycle.viewmodel.compose.viewModel
+import androidx.hilt.navigation.compose.hiltViewModel
 import com.example.jjtimer.domain.model.TimerPreset
 import com.example.jjtimer.ui.components.GlassCard
 import com.example.jjtimer.ui.theme.BlueAccent
@@ -25,7 +25,7 @@ import com.example.jjtimer.ui.theme.NavyDark
 
 @Composable
 fun SavedTimersScreen(
-    viewModel: SavedTimersViewModel = viewModel(),
+    viewModel: SavedTimersViewModel = hiltViewModel(),
     onNavigateToConfig: (String?) -> Unit
 ) {
     val presets by viewModel.presets.collectAsState()
