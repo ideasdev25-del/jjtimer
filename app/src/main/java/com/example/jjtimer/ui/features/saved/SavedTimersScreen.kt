@@ -26,16 +26,22 @@ import com.example.jjtimer.ui.theme.NavyDark
 @Composable
 fun SavedTimersScreen(
     viewModel: SavedTimersViewModel = hiltViewModel(),
-    onNavigateToConfig: (String?) -> Unit
+    onNavigateToConfig: (String?) -> Unit,
+    onStartTimer: (String) -> Unit
 ) {
     val presets by viewModel.presets.collectAsState()
-    SavedTimersContent(presets = presets, onNavigateToConfig = onNavigateToConfig)
+    SavedTimersContent(
+        presets = presets, 
+        onNavigateToConfig = onNavigateToConfig,
+        onStartTimer = onStartTimer
+    )
 }
 
 @Composable
 fun SavedTimersContent(
     presets: List<TimerPreset>,
-    onNavigateToConfig: (String?) -> Unit
+    onNavigateToConfig: (String?) -> Unit,
+    onStartTimer: (String) -> Unit
 ) {
     Scaffold(
         containerColor = NavyDark,
@@ -66,7 +72,11 @@ fun SavedTimersContent(
                 verticalArrangement = Arrangement.spacedBy(16.dp)
             ) {
                 items(presets) { preset ->
-                    TimerPresetItem(preset = preset, onClick = { onNavigateToConfig(preset.id) })
+                    TimerPresetItem(
+                        preset = preset, 
+                        onEdit = { onNavigateToConfig(preset.id) },
+                        onStart = { onStartTimer(preset.id) }
+                    )
                 }
             }
         }
@@ -76,12 +86,13 @@ fun SavedTimersContent(
 @Composable
 fun TimerPresetItem(
     preset: TimerPreset,
-    onClick: () -> Unit
+    onEdit: () -> Unit,
+    onStart: () -> Unit
 ) {
     GlassCard(
         modifier = Modifier
             .fillMaxWidth()
-            .clickable { onClick() }
+            .clickable { onEdit() }
     ) {
         Row(
             modifier = Modifier
@@ -110,7 +121,7 @@ fun TimerPresetItem(
             }
             
             IconButton(
-                onClick = onClick,
+                onClick = onStart,
                 colors = IconButtonDefaults.iconButtonColors(
                     containerColor = BlueAccent.copy(alpha = 0.2f),
                     contentColor = BlueAccent

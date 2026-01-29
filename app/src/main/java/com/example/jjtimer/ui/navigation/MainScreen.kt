@@ -10,12 +10,9 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
-import androidx.navigation.NavDestination.Companion.hierarchy
-import androidx.navigation.NavGraph.Companion.findStartDestination
-import androidx.navigation.compose.NavHost
-import androidx.navigation.compose.composable
-import androidx.navigation.compose.currentBackStackEntryAsState
-import androidx.navigation.compose.rememberNavController
+import androidx.navigation.NavType
+import androidx.navigation.compose.*
+import androidx.navigation.navArgument
 import com.example.jjtimer.ui.features.profile.ProfileScreen
 import com.example.jjtimer.ui.features.saved.SavedTimersScreen
 import com.example.jjtimer.ui.features.timer.TimerScreen
@@ -108,13 +105,23 @@ fun MainScreen() {
             composable(Screen.SavedTimers.route) {
                 SavedTimersScreen(
                     onNavigateToConfig = { presetId ->
-                        // Navigate to config (can pass ID later for editing)
-                        navController.navigate(Screen.TimerConfig.route)
+                        navController.navigate(Screen.TimerConfig.createRoute(presetId))
+                    },
+                    onStartTimer = { presetId ->
+                        navController.navigate(Screen.TimerRunning.createRoute(presetId))
                     }
                 )
             }
             composable(Screen.Profile.route) {
                 ProfileScreen(onBack = { navController.popBackStack() })
+            }
+            composable(
+                route = Screen.TimerRunning.route,
+                arguments = listOf(navArgument("presetId") { type = NavType.StringType })
+            ) {
+                TimerScreen(
+                    onClose = { navController.popBackStack() }
+                )
             }
             composable(Screen.TimerConfig.route) {
                 com.example.jjtimer.ui.features.config.TimerConfigScreen(

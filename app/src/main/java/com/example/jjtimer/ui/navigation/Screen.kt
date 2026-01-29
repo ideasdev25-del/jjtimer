@@ -6,4 +6,7 @@ sealed class Screen(val route: String) {
     object TimerConfig : Screen("timer_config?presetId={presetId}") {
         fun createRoute(presetId: String? = null) = "timer_config?presetId=${presetId ?: ""}"
     }
+    object TimerRunning : Screen("timer_running/{presetId}") {
+        fun createRoute(presetId: String) = "timer_running/$presetId"
+    }
 }
