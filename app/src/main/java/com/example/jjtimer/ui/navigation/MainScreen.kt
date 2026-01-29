@@ -24,7 +24,6 @@ import com.example.jjtimer.ui.theme.NavyDark
 import com.example.jjtimer.ui.theme.NavyLighter
 
 @Composable
-@Composable
 fun MainScreen() {
     val navController = rememberNavController()
 

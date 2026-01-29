@@ -48,7 +48,7 @@ fun GlassCard(
     ) {
         Box(
             modifier = Modifier
-                .background(NavyLight.copy(alpha = 0.5f)) // Fallback/Basis
+                .background(Color.White.copy(alpha = 0.05f))
                 .padding(16.dp)
         ) {
             content()
