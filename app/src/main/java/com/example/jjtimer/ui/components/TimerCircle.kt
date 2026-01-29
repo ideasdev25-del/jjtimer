@@ -19,6 +19,7 @@ import androidx.compose.ui.graphics.drawscope.Stroke
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import com.example.jjtimer.ui.theme.BlueAccent
 import com.example.jjtimer.ui.theme.NavyLighter
 import kotlin.math.cos
@@ -80,7 +81,7 @@ fun TimerCircle(
                 text = modeLabel.uppercase(),
                 style = MaterialTheme.typography.labelMedium,
                 color = Color.Gray,
-                letterSpacing = 2.dp
+                letterSpacing = 2.sp
             )
             Text(
                 text = formatTimeCompact(timeLeftSeconds),

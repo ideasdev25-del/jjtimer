@@ -17,31 +17,7 @@ class SavedTimersViewModel @Inject constructor() : ViewModel() {
 
     init {
         // Load Mock Data
-        _presets.value = listOf(
-            TimerPreset(
-                title = "Competition Prep",
-                category = "IBJJF Standard",
-                workSeconds = 300, // 5:00
-                restSeconds = 60,  // 1:00
-                rounds = 10,
-                colorHex = "#1E88E5" // Blue
-            ),
-            TimerPreset(
-                title = "Light Drilling",
-                category = "Flow & Technique",
-                workSeconds = 180, // 3:00
-                restSeconds = 30,
-                rounds = 100, // Infinite
-                colorHex = "#00C853" // Green
-            ),
-            TimerPreset(
-                title = "Shark Tank",
-                category = "High Intensity",
-                workSeconds = 120, // 2:00
-                restSeconds = 10,
-                rounds = 5,
-                colorHex = "#D50000" // Red
-            )
-        )
+        // Initialize with empty list
+        _presets.value = emptyList()
     }
 }

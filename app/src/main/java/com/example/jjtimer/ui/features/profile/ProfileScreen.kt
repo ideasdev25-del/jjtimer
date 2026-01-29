@@ -23,6 +23,7 @@ import com.example.jjtimer.ui.components.GlassCard
 import com.example.jjtimer.ui.theme.BlueAccent
 import com.example.jjtimer.ui.theme.NavyDark
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun ProfileScreen(
     onBack: () -> Unit,

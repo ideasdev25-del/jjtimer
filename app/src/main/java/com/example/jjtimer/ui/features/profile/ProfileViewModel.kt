@@ -16,15 +16,7 @@ class ProfileViewModel @Inject constructor() : ViewModel() {
 
     init {
         // Mock Data
-        _profile.value = UserProfile(
-            id = "user_123",
-            name = "Rickson Gracie",
-            email = "rickson@bjj.com",
-            rank = "Faixa Preta",
-            rankDegree = 4,
-            sinceYear = 2018,
-            timeRolledHours = 120,
-            totalRounds = 450
-        )
+        // Initialize with null
+        _profile.value = null
     }
 }

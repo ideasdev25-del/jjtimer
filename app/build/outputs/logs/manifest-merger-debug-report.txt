@@ -4,78 +4,78 @@ ADDED from H:\JJtimer\app\src\main\AndroidManifest.xml:2:1-28:12
 INJECTED from H:\JJtimer\app\src\main\AndroidManifest.xml:2:1-28:12
 INJECTED from H:\JJtimer\app\src\main\AndroidManifest.xml:2:1-28:12
 INJECTED from H:\JJtimer\app\src\main\AndroidManifest.xml:2:1-28:12
-MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\821ed9c21a9d28b5c2e37d4f8b1db1ec\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\26f43aa35bff22045ec3dbe3c1df8a37\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-common:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\5ed929372d77d04b89f50bfa8d225e74\transformed\navigation-common-2.8.3\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-runtime:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\2a4e18390fe706ef2bb7c274f1c150ad\transformed\navigation-runtime-2.8.3\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-common-ktx:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\48454a539eae04e6edebf82914e94eef\transformed\navigation-common-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\14e45b92ab8d565afbb8f47d597715b2\transformed\navigation-runtime-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-compose:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b47619a41b79c468795b9697b5af0c1f\transformed\navigation-compose-2.8.3\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\6c96a2ad20ea573f3e06878ae8562a53\transformed\material3-release\AndroidManifest.xml:17:1-22:12
-MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\8ba637fccb88f399d468c4e83dd4bb7f\transformed\coil-compose-2.7.0\AndroidManifest.xml:2:1-7:12
-MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\981a2e645f7088d3e3e17576bb8889db\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e1e2d3f87b684301329208d5d8a8c5a2\transformed\material-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-core-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\0ceebc989b43e4a6325505718ec8f68e\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material-ripple-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\015274223152e0dcfd937865763b0d4c\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\0083d0d6e33c698ec125ffa0e2442c94\transformed\animation-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\5eb391c1b3c5aadc26a05ae2279b1d22\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9d9a6a33f7b68981029241a542321ba1\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\bcfaeae771dd6b0ca2e7bfc80b000680\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-unit-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c5d30c4f88eaff06135aca1b73164881\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-geometry-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\414a9f5452d10512e0554419013112cb\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-util-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\24a75f5fde19c3050833fb034e439b08\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-text-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\0a4f59360004bf9d51a169fa7bd38202\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a5b08e1d1978454709d2c30dcba19248\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.ui:ui-graphics-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\6f7f096ba34a0107f89b63da05d3ed82\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b92704db8d13257921626a9afd57d86e\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:17:1-23:12
-MERGED from [com.google.dagger:hilt-android:2.51.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e41226841941ea28043bb130d9a95ae1\transformed\hilt-android-2.51.1\AndroidManifest.xml:16:1-19:12
-MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e19736cea167c397672538c1f7c82051\transformed\fragment-1.5.1\AndroidManifest.xml:17:1-24:12
-MERGED from [io.coil-kt:coil:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\5e3f784eeb65b41b248ce0ff7ef8fce7\transformed\coil-2.7.0\AndroidManifest.xml:2:1-7:12
-MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a99ec7738f94945e3a851a01bc1b263e\transformed\coil-base-2.7.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f8123798a94373fe98a93501d0933e9c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb2172090e237e802ff0cf35dc4f92ce\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c86e1cd53ce4ad2e8d07292e2c65e4ab\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\95141d2e395ae35b29959e6850f9c1d8\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\2c051becbfb51fc7d01fcddf4e812311\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d8e8ca1e4fdc26a7fa007de96f3f34d4\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e56a729fe55e23b0abe5d0479a1b6b1c\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:2:1-5:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d49169076c2dae37cc61faca09bf7849\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a5e08d7e917eb05ee3e890a7480cf421\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\2fbde5b3a22a1559e2549c912489b13f\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d5c8f612921ab7cbf7b1371ca673fd4b\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\0809382c2d550b79b17a735cdee67d5d\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b5f3e5e968a078ae8dffaa1dce0fb681\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\12b72f871b89453d411d6e0f8d97bbbc\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a512c8727f1396241065c5865bc4147b\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\125a0aaacd2ab82bffce5e233f8f5b76\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material-icons-core-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\6b1de1ce85152b221d4f0c9ca0e6f7b5\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\53e4802c69dfddc4eef9d5748abb46a9\transformed\ui-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-test-manifest:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\10179e3cc36398c9ee484e3979bf347e\transformed\ui-test-manifest-1.7.5\AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.compose.ui:ui-tooling-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\df4d8bb5a43323a26a5045b55e381937\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\db3346d2deb8ad23a0bd99f62c3bb9ac\transformed\activity-compose-1.9.3\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\5b6400fc6c123ac5f39c6126c4dd38ab\transformed\activity-ktx-1.9.3\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f0e6b56ce05db82af2718c5519c88ffb\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c28d9e84ba8238b443fc6b3014668e30\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9fc0fe711a679b290db1acf19874e306\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\aaca9f8337cc43b53250c2c0242482c1\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9a494d57e28e5d90a233691f42b11f1d\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d43a9dcdfbaa78388f1aae9ac703d5b5\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\8ba836715f90e96ae89174bec1249a42\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\70a4a84b6247fc21a974c6f283d75f48\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f76c65311b9d0483e9c70219b029df2e\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\ed4762ce06c64b52a86aee18d9e7359c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\130da02f4de0c5e135874f525445aa47\transformed\core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\67eb039dccdbb70b6507c89164097444\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.runtime:runtime-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e5e35f7ba1d2707a31e1a686224f3c47\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\8fe32d4aeab6bc612ff09a114db2c447\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3570071b23c539e27c6358dfea34c4b2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c57785bc925af5a19cc938dc1cb344c2\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\12afe99c7a15d59f892086cbb5908017\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\533ba96d50950b8c337fcb6275e169ac\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a8636e2cc3e32807855c8db81cefb696\transformed\exifinterface-1.3.7\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\5059d3ccb0993de1471efdaad8fba9c1\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\18c36524a9c3232ad6cc222e2908c7ac\transformed\dagger-lint-aar-2.51.1\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\98eddee10a84deb191f65514a44d5f7f\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e883501c37ed935393856baf12705258\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\27f1edfc911096307cede330b0e4e3f2\transformed\navigation-common-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\389a9359fb7b057afd39197f920a42ea\transformed\navigation-runtime-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9d134c0488c26345c345df87da9c5bfb\transformed\navigation-common-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb5dbf64619f053c3c91bbd28847990a\transformed\navigation-runtime-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\1f84c77bb9fcb438cd21e00d33bfe637\transformed\navigation-compose-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c99f169079d625f6f4fa70828e049ca3\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7ba094ffe94098535060345a6b787f1a\transformed\coil-compose-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f15ae00f64a8a184c5c1fe1553929f30\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f91402c6982c9be8ffa3c17a33f72a50\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\eed91823f5116d11e68717e2f4b6dac7\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\dcc4961ee26849c3d88b564a47192ab3\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9960eb452767e9c6e099edf4f9da3e4d\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a396574b9c9283f7e0a19bf37cbe4fc6\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3002b728fc0308ec3e22537d6b6a1a34\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d8ed32c16ff2d348f7cae5123426acde\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\58d6de3f643d8ecb09211aaf9b879426\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\2c376909fb99c37de60bcee0b205276d\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\10306ce0b7d6ea0818bfe16b536f4602\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\4f5de12216674893ea4860582a0b87d5\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\1c717c6ae822dac9c14eaea139ef01b7\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\4d70d9634a22a63533278e0e7a046670\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb3ea1377dad395e6de4fa803e34bd7c\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:17:1-23:12
+MERGED from [com.google.dagger:hilt-android:2.51.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\4a43478d6466448eabc4950006a46bc8\transformed\hilt-android-2.51.1\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3abb00ff3324e2627fac7597005dba0f\transformed\fragment-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\2676fe0edeea29ee00b9ec4fcb351354\transformed\coil-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b4d8978e72e641d4d1a50dfcd4de2124\transformed\coil-base-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d606f5529da632691cb2ba3512c1b715\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\dc787e2fdd2468af71d3880d023d296a\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a7bc8761b0ded30cc4f3d29e9750e737\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\81c69f0413821615350d95574fa275b8\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e67aa090c1e598c9668551acc11d0b92\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c056336879406db1b11fca75e9b7b98d\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\ae9bd1e026db4eba2775dd8eed8f89e3\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c14e827d80e5b1d5f0a920ac2299a5eb\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\66f68a257caf563fa826dbca81459ccb\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a890325cd11cc4980c098e125eb19006\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\cc329c761cc0824ab395c59b88fa7aa9\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\8ccce3532148186b78bdbfcedfa24b6e\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f0ffc902097009695d6c4455dd28df0a\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\ed8f71feeae2724a41f3613dfb319bd4\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\748c59c4a98ec04f4f327979bb1326cb\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e9fafe98f0f22149fe5f8f1227fc9a3a\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9b5005b90b18ff95e4e5d9c13eab9ea5\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\cd7ca51b634f7abf475a8d2b7f17ea82\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\521c8f7db7cf0e4439c8acf507dca745\transformed\ui-test-manifest-1.7.5\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c567ed03a5d0fbe5b8479a49dd12133b\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\86e25c4f71f4991127fc9738104f390f\transformed\activity-compose-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\faa5b5ff078752c1bdebb74dd014befe\transformed\activity-ktx-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\1df6ad3d3d3213ec8a77e625b42cc68b\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a0348cfab837781ebf64a2d86c51c19b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3fbbe63aa9622d56da395736493cfe4b\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\acea464e62cd15fe923b6fa5c91f1d17\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3571031b83ec2ff652955b231e24129d\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\04e67735e005b300d3c8dd07bad45ce3\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\6dfbb1c96156ccdfb89152a185eedd71\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\6a1a4ea9eca53342a10880af7f6b34a8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\97f68d588e3e15ff4d7a1d89bbe00cdd\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b796af2640413ab6e25f852cd710fbc3\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b45dacd4224e76061613fe41fe75b000\transformed\core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f2801493cbd95e64490ea402994d5ed8\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e82334b44f1b4422cf83740a6313933\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d12cb06fed8a865155a9b85fe90f18f8\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c1b3e2d15faedefa84ba87c09b54de2e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\882c5eff682e377b7aa15b1cde678e76\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b06a009c05a137ad03f1e58e12313276\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\938e0279be127bcc282ae9c957df1c89\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\82ff740905e6c3941195db8e6b0cf07d\transformed\exifinterface-1.3.7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\220274c9baa417c4a44b9e6dfe80f198\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\359e9651054b95f931b84f6ed79ab147\transformed\dagger-lint-aar-2.51.1\AndroidManifest.xml:16:1-19:12
 	package
 		INJECTED from H:\JJtimer\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -89,26 +89,26 @@ MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] C:\Users\joana\.gradle\ca
 application
 ADDED from H:\JJtimer\app\src\main\AndroidManifest.xml:5:5-26:19
 INJECTED from H:\JJtimer\app\src\main\AndroidManifest.xml:5:5-26:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb2172090e237e802ff0cf35dc4f92ce\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb2172090e237e802ff0cf35dc4f92ce\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c86e1cd53ce4ad2e8d07292e2c65e4ab\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c86e1cd53ce4ad2e8d07292e2c65e4ab\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.compose.ui:ui-test-manifest:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\10179e3cc36398c9ee484e3979bf347e\transformed\ui-test-manifest-1.7.5\AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-test-manifest:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\10179e3cc36398c9ee484e3979bf347e\transformed\ui-test-manifest-1.7.5\AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\df4d8bb5a43323a26a5045b55e381937\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\df4d8bb5a43323a26a5045b55e381937\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f76c65311b9d0483e9c70219b029df2e\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f76c65311b9d0483e9c70219b029df2e\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3570071b23c539e27c6358dfea34c4b2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3570071b23c539e27c6358dfea34c4b2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\12afe99c7a15d59f892086cbb5908017\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\12afe99c7a15d59f892086cbb5908017\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\dc787e2fdd2468af71d3880d023d296a\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\dc787e2fdd2468af71d3880d023d296a\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a7bc8761b0ded30cc4f3d29e9750e737\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a7bc8761b0ded30cc4f3d29e9750e737\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\521c8f7db7cf0e4439c8acf507dca745\transformed\ui-test-manifest-1.7.5\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\521c8f7db7cf0e4439c8acf507dca745\transformed\ui-test-manifest-1.7.5\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c567ed03a5d0fbe5b8479a49dd12133b\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c567ed03a5d0fbe5b8479a49dd12133b\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\97f68d588e3e15ff4d7a1d89bbe00cdd\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\97f68d588e3e15ff4d7a1d89bbe00cdd\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c1b3e2d15faedefa84ba87c09b54de2e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c1b3e2d15faedefa84ba87c09b54de2e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b06a009c05a137ad03f1e58e12313276\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b06a009c05a137ad03f1e58e12313276\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
 		INJECTED from H:\JJtimer\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f76c65311b9d0483e9c70219b029df2e\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\97f68d588e3e15ff4d7a1d89bbe00cdd\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from H:\JJtimer\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
@@ -151,253 +151,253 @@ uses-sdk
 INJECTED from H:\JJtimer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from H:\JJtimer\app\src\main\AndroidManifest.xml
 INJECTED from H:\JJtimer\app\src\main\AndroidManifest.xml
-MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\821ed9c21a9d28b5c2e37d4f8b1db1ec\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\821ed9c21a9d28b5c2e37d4f8b1db1ec\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\26f43aa35bff22045ec3dbe3c1df8a37\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\26f43aa35bff22045ec3dbe3c1df8a37\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-common:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\5ed929372d77d04b89f50bfa8d225e74\transformed\navigation-common-2.8.3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\5ed929372d77d04b89f50bfa8d225e74\transformed\navigation-common-2.8.3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\2a4e18390fe706ef2bb7c274f1c150ad\transformed\navigation-runtime-2.8.3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\2a4e18390fe706ef2bb7c274f1c150ad\transformed\navigation-runtime-2.8.3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common-ktx:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\48454a539eae04e6edebf82914e94eef\transformed\navigation-common-ktx-2.8.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-common-ktx:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\48454a539eae04e6edebf82914e94eef\transformed\navigation-common-ktx-2.8.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\14e45b92ab8d565afbb8f47d597715b2\transformed\navigation-runtime-ktx-2.8.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\14e45b92ab8d565afbb8f47d597715b2\transformed\navigation-runtime-ktx-2.8.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-compose:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b47619a41b79c468795b9697b5af0c1f\transformed\navigation-compose-2.8.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-compose:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b47619a41b79c468795b9697b5af0c1f\transformed\navigation-compose-2.8.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\6c96a2ad20ea573f3e06878ae8562a53\transformed\material3-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\6c96a2ad20ea573f3e06878ae8562a53\transformed\material3-release\AndroidManifest.xml:20:5-44
-MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\8ba637fccb88f399d468c4e83dd4bb7f\transformed\coil-compose-2.7.0\AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\8ba637fccb88f399d468c4e83dd4bb7f\transformed\coil-compose-2.7.0\AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\981a2e645f7088d3e3e17576bb8889db\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\981a2e645f7088d3e3e17576bb8889db\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e1e2d3f87b684301329208d5d8a8c5a2\transformed\material-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e1e2d3f87b684301329208d5d8a8c5a2\transformed\material-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\0ceebc989b43e4a6325505718ec8f68e\transformed\animation-core-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\0ceebc989b43e4a6325505718ec8f68e\transformed\animation-core-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-ripple-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\015274223152e0dcfd937865763b0d4c\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-ripple-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\015274223152e0dcfd937865763b0d4c\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\0083d0d6e33c698ec125ffa0e2442c94\transformed\animation-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\0083d0d6e33c698ec125ffa0e2442c94\transformed\animation-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\5eb391c1b3c5aadc26a05ae2279b1d22\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\5eb391c1b3c5aadc26a05ae2279b1d22\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9d9a6a33f7b68981029241a542321ba1\transformed\foundation-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9d9a6a33f7b68981029241a542321ba1\transformed\foundation-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\bcfaeae771dd6b0ca2e7bfc80b000680\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\bcfaeae771dd6b0ca2e7bfc80b000680\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c5d30c4f88eaff06135aca1b73164881\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c5d30c4f88eaff06135aca1b73164881\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\414a9f5452d10512e0554419013112cb\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\414a9f5452d10512e0554419013112cb\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\24a75f5fde19c3050833fb034e439b08\transformed\ui-util-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\24a75f5fde19c3050833fb034e439b08\transformed\ui-util-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\0a4f59360004bf9d51a169fa7bd38202\transformed\ui-text-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\0a4f59360004bf9d51a169fa7bd38202\transformed\ui-text-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a5b08e1d1978454709d2c30dcba19248\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a5b08e1d1978454709d2c30dcba19248\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\6f7f096ba34a0107f89b63da05d3ed82\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\6f7f096ba34a0107f89b63da05d3ed82\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
-MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b92704db8d13257921626a9afd57d86e\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
-MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b92704db8d13257921626a9afd57d86e\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
-MERGED from [com.google.dagger:hilt-android:2.51.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e41226841941ea28043bb130d9a95ae1\transformed\hilt-android-2.51.1\AndroidManifest.xml:18:3-42
-MERGED from [com.google.dagger:hilt-android:2.51.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e41226841941ea28043bb130d9a95ae1\transformed\hilt-android-2.51.1\AndroidManifest.xml:18:3-42
-MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e19736cea167c397672538c1f7c82051\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e19736cea167c397672538c1f7c82051\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
-MERGED from [io.coil-kt:coil:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\5e3f784eeb65b41b248ce0ff7ef8fce7\transformed\coil-2.7.0\AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\5e3f784eeb65b41b248ce0ff7ef8fce7\transformed\coil-2.7.0\AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a99ec7738f94945e3a851a01bc1b263e\transformed\coil-base-2.7.0\AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a99ec7738f94945e3a851a01bc1b263e\transformed\coil-base-2.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f8123798a94373fe98a93501d0933e9c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f8123798a94373fe98a93501d0933e9c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb2172090e237e802ff0cf35dc4f92ce\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb2172090e237e802ff0cf35dc4f92ce\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c86e1cd53ce4ad2e8d07292e2c65e4ab\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c86e1cd53ce4ad2e8d07292e2c65e4ab\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\95141d2e395ae35b29959e6850f9c1d8\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\95141d2e395ae35b29959e6850f9c1d8\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\2c051becbfb51fc7d01fcddf4e812311\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\2c051becbfb51fc7d01fcddf4e812311\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d8e8ca1e4fdc26a7fa007de96f3f34d4\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d8e8ca1e4fdc26a7fa007de96f3f34d4\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e56a729fe55e23b0abe5d0479a1b6b1c\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e56a729fe55e23b0abe5d0479a1b6b1c\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d49169076c2dae37cc61faca09bf7849\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d49169076c2dae37cc61faca09bf7849\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a5e08d7e917eb05ee3e890a7480cf421\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a5e08d7e917eb05ee3e890a7480cf421\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\2fbde5b3a22a1559e2549c912489b13f\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\2fbde5b3a22a1559e2549c912489b13f\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d5c8f612921ab7cbf7b1371ca673fd4b\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d5c8f612921ab7cbf7b1371ca673fd4b\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\0809382c2d550b79b17a735cdee67d5d\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\0809382c2d550b79b17a735cdee67d5d\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b5f3e5e968a078ae8dffaa1dce0fb681\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b5f3e5e968a078ae8dffaa1dce0fb681\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\12b72f871b89453d411d6e0f8d97bbbc\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\12b72f871b89453d411d6e0f8d97bbbc\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a512c8727f1396241065c5865bc4147b\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a512c8727f1396241065c5865bc4147b\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\125a0aaacd2ab82bffce5e233f8f5b76\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\125a0aaacd2ab82bffce5e233f8f5b76\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-icons-core-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\6b1de1ce85152b221d4f0c9ca0e6f7b5\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-icons-core-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\6b1de1ce85152b221d4f0c9ca0e6f7b5\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\53e4802c69dfddc4eef9d5748abb46a9\transformed\ui-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\53e4802c69dfddc4eef9d5748abb46a9\transformed\ui-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-test-manifest:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\10179e3cc36398c9ee484e3979bf347e\transformed\ui-test-manifest-1.7.5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-test-manifest:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\10179e3cc36398c9ee484e3979bf347e\transformed\ui-test-manifest-1.7.5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\df4d8bb5a43323a26a5045b55e381937\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\df4d8bb5a43323a26a5045b55e381937\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\db3346d2deb8ad23a0bd99f62c3bb9ac\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\db3346d2deb8ad23a0bd99f62c3bb9ac\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\5b6400fc6c123ac5f39c6126c4dd38ab\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\5b6400fc6c123ac5f39c6126c4dd38ab\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f0e6b56ce05db82af2718c5519c88ffb\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f0e6b56ce05db82af2718c5519c88ffb\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c28d9e84ba8238b443fc6b3014668e30\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c28d9e84ba8238b443fc6b3014668e30\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9fc0fe711a679b290db1acf19874e306\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9fc0fe711a679b290db1acf19874e306\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\aaca9f8337cc43b53250c2c0242482c1\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\aaca9f8337cc43b53250c2c0242482c1\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9a494d57e28e5d90a233691f42b11f1d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9a494d57e28e5d90a233691f42b11f1d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d43a9dcdfbaa78388f1aae9ac703d5b5\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d43a9dcdfbaa78388f1aae9ac703d5b5\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\8ba836715f90e96ae89174bec1249a42\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\8ba836715f90e96ae89174bec1249a42\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\70a4a84b6247fc21a974c6f283d75f48\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\70a4a84b6247fc21a974c6f283d75f48\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f76c65311b9d0483e9c70219b029df2e\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f76c65311b9d0483e9c70219b029df2e\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\ed4762ce06c64b52a86aee18d9e7359c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\ed4762ce06c64b52a86aee18d9e7359c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\130da02f4de0c5e135874f525445aa47\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\130da02f4de0c5e135874f525445aa47\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\67eb039dccdbb70b6507c89164097444\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\67eb039dccdbb70b6507c89164097444\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e5e35f7ba1d2707a31e1a686224f3c47\transformed\runtime-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e5e35f7ba1d2707a31e1a686224f3c47\transformed\runtime-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\8fe32d4aeab6bc612ff09a114db2c447\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\8fe32d4aeab6bc612ff09a114db2c447\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3570071b23c539e27c6358dfea34c4b2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3570071b23c539e27c6358dfea34c4b2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c57785bc925af5a19cc938dc1cb344c2\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c57785bc925af5a19cc938dc1cb344c2\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\12afe99c7a15d59f892086cbb5908017\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\12afe99c7a15d59f892086cbb5908017\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\533ba96d50950b8c337fcb6275e169ac\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\533ba96d50950b8c337fcb6275e169ac\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a8636e2cc3e32807855c8db81cefb696\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a8636e2cc3e32807855c8db81cefb696\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\5059d3ccb0993de1471efdaad8fba9c1\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\5059d3ccb0993de1471efdaad8fba9c1\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
-MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\18c36524a9c3232ad6cc222e2908c7ac\transformed\dagger-lint-aar-2.51.1\AndroidManifest.xml:18:3-42
-MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\18c36524a9c3232ad6cc222e2908c7ac\transformed\dagger-lint-aar-2.51.1\AndroidManifest.xml:18:3-42
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\98eddee10a84deb191f65514a44d5f7f\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\98eddee10a84deb191f65514a44d5f7f\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e883501c37ed935393856baf12705258\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e883501c37ed935393856baf12705258\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\27f1edfc911096307cede330b0e4e3f2\transformed\navigation-common-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\27f1edfc911096307cede330b0e4e3f2\transformed\navigation-common-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\389a9359fb7b057afd39197f920a42ea\transformed\navigation-runtime-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\389a9359fb7b057afd39197f920a42ea\transformed\navigation-runtime-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9d134c0488c26345c345df87da9c5bfb\transformed\navigation-common-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9d134c0488c26345c345df87da9c5bfb\transformed\navigation-common-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb5dbf64619f053c3c91bbd28847990a\transformed\navigation-runtime-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb5dbf64619f053c3c91bbd28847990a\transformed\navigation-runtime-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\1f84c77bb9fcb438cd21e00d33bfe637\transformed\navigation-compose-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\1f84c77bb9fcb438cd21e00d33bfe637\transformed\navigation-compose-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c99f169079d625f6f4fa70828e049ca3\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c99f169079d625f6f4fa70828e049ca3\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7ba094ffe94098535060345a6b787f1a\transformed\coil-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7ba094ffe94098535060345a6b787f1a\transformed\coil-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f15ae00f64a8a184c5c1fe1553929f30\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f15ae00f64a8a184c5c1fe1553929f30\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f91402c6982c9be8ffa3c17a33f72a50\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f91402c6982c9be8ffa3c17a33f72a50\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\eed91823f5116d11e68717e2f4b6dac7\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\eed91823f5116d11e68717e2f4b6dac7\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\dcc4961ee26849c3d88b564a47192ab3\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\dcc4961ee26849c3d88b564a47192ab3\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9960eb452767e9c6e099edf4f9da3e4d\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9960eb452767e9c6e099edf4f9da3e4d\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a396574b9c9283f7e0a19bf37cbe4fc6\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a396574b9c9283f7e0a19bf37cbe4fc6\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3002b728fc0308ec3e22537d6b6a1a34\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3002b728fc0308ec3e22537d6b6a1a34\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d8ed32c16ff2d348f7cae5123426acde\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d8ed32c16ff2d348f7cae5123426acde\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\58d6de3f643d8ecb09211aaf9b879426\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\58d6de3f643d8ecb09211aaf9b879426\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\2c376909fb99c37de60bcee0b205276d\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\2c376909fb99c37de60bcee0b205276d\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\10306ce0b7d6ea0818bfe16b536f4602\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\10306ce0b7d6ea0818bfe16b536f4602\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\4f5de12216674893ea4860582a0b87d5\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\4f5de12216674893ea4860582a0b87d5\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\1c717c6ae822dac9c14eaea139ef01b7\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\1c717c6ae822dac9c14eaea139ef01b7\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\4d70d9634a22a63533278e0e7a046670\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\4d70d9634a22a63533278e0e7a046670\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb3ea1377dad395e6de4fa803e34bd7c\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb3ea1377dad395e6de4fa803e34bd7c\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.dagger:hilt-android:2.51.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\4a43478d6466448eabc4950006a46bc8\transformed\hilt-android-2.51.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.51.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\4a43478d6466448eabc4950006a46bc8\transformed\hilt-android-2.51.1\AndroidManifest.xml:18:3-42
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3abb00ff3324e2627fac7597005dba0f\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3abb00ff3324e2627fac7597005dba0f\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\2676fe0edeea29ee00b9ec4fcb351354\transformed\coil-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\2676fe0edeea29ee00b9ec4fcb351354\transformed\coil-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b4d8978e72e641d4d1a50dfcd4de2124\transformed\coil-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b4d8978e72e641d4d1a50dfcd4de2124\transformed\coil-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d606f5529da632691cb2ba3512c1b715\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d606f5529da632691cb2ba3512c1b715\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\dc787e2fdd2468af71d3880d023d296a\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\dc787e2fdd2468af71d3880d023d296a\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a7bc8761b0ded30cc4f3d29e9750e737\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a7bc8761b0ded30cc4f3d29e9750e737\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\81c69f0413821615350d95574fa275b8\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\81c69f0413821615350d95574fa275b8\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e67aa090c1e598c9668551acc11d0b92\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e67aa090c1e598c9668551acc11d0b92\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c056336879406db1b11fca75e9b7b98d\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c056336879406db1b11fca75e9b7b98d\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\ae9bd1e026db4eba2775dd8eed8f89e3\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\ae9bd1e026db4eba2775dd8eed8f89e3\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c14e827d80e5b1d5f0a920ac2299a5eb\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c14e827d80e5b1d5f0a920ac2299a5eb\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\66f68a257caf563fa826dbca81459ccb\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\66f68a257caf563fa826dbca81459ccb\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a890325cd11cc4980c098e125eb19006\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a890325cd11cc4980c098e125eb19006\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\cc329c761cc0824ab395c59b88fa7aa9\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\cc329c761cc0824ab395c59b88fa7aa9\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\8ccce3532148186b78bdbfcedfa24b6e\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\8ccce3532148186b78bdbfcedfa24b6e\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f0ffc902097009695d6c4455dd28df0a\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f0ffc902097009695d6c4455dd28df0a\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\ed8f71feeae2724a41f3613dfb319bd4\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\ed8f71feeae2724a41f3613dfb319bd4\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\748c59c4a98ec04f4f327979bb1326cb\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\748c59c4a98ec04f4f327979bb1326cb\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e9fafe98f0f22149fe5f8f1227fc9a3a\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\e9fafe98f0f22149fe5f8f1227fc9a3a\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9b5005b90b18ff95e4e5d9c13eab9ea5\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\9b5005b90b18ff95e4e5d9c13eab9ea5\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\cd7ca51b634f7abf475a8d2b7f17ea82\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\cd7ca51b634f7abf475a8d2b7f17ea82\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\521c8f7db7cf0e4439c8acf507dca745\transformed\ui-test-manifest-1.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\521c8f7db7cf0e4439c8acf507dca745\transformed\ui-test-manifest-1.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c567ed03a5d0fbe5b8479a49dd12133b\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c567ed03a5d0fbe5b8479a49dd12133b\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\86e25c4f71f4991127fc9738104f390f\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\86e25c4f71f4991127fc9738104f390f\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\faa5b5ff078752c1bdebb74dd014befe\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\faa5b5ff078752c1bdebb74dd014befe\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\1df6ad3d3d3213ec8a77e625b42cc68b\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\1df6ad3d3d3213ec8a77e625b42cc68b\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a0348cfab837781ebf64a2d86c51c19b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a0348cfab837781ebf64a2d86c51c19b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3fbbe63aa9622d56da395736493cfe4b\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3fbbe63aa9622d56da395736493cfe4b\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\acea464e62cd15fe923b6fa5c91f1d17\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\acea464e62cd15fe923b6fa5c91f1d17\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3571031b83ec2ff652955b231e24129d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3571031b83ec2ff652955b231e24129d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\04e67735e005b300d3c8dd07bad45ce3\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\04e67735e005b300d3c8dd07bad45ce3\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\6dfbb1c96156ccdfb89152a185eedd71\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\6dfbb1c96156ccdfb89152a185eedd71\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\6a1a4ea9eca53342a10880af7f6b34a8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\6a1a4ea9eca53342a10880af7f6b34a8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\97f68d588e3e15ff4d7a1d89bbe00cdd\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\97f68d588e3e15ff4d7a1d89bbe00cdd\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b796af2640413ab6e25f852cd710fbc3\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b796af2640413ab6e25f852cd710fbc3\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b45dacd4224e76061613fe41fe75b000\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b45dacd4224e76061613fe41fe75b000\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f2801493cbd95e64490ea402994d5ed8\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f2801493cbd95e64490ea402994d5ed8\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e82334b44f1b4422cf83740a6313933\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e82334b44f1b4422cf83740a6313933\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d12cb06fed8a865155a9b85fe90f18f8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\d12cb06fed8a865155a9b85fe90f18f8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c1b3e2d15faedefa84ba87c09b54de2e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c1b3e2d15faedefa84ba87c09b54de2e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\882c5eff682e377b7aa15b1cde678e76\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\882c5eff682e377b7aa15b1cde678e76\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b06a009c05a137ad03f1e58e12313276\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b06a009c05a137ad03f1e58e12313276\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\938e0279be127bcc282ae9c957df1c89\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\938e0279be127bcc282ae9c957df1c89\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\82ff740905e6c3941195db8e6b0cf07d\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\82ff740905e6c3941195db8e6b0cf07d\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\220274c9baa417c4a44b9e6dfe80f198\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\220274c9baa417c4a44b9e6dfe80f198\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\359e9651054b95f931b84f6ed79ab147\transformed\dagger-lint-aar-2.51.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\359e9651054b95f931b84f6ed79ab147\transformed\dagger-lint-aar-2.51.1\AndroidManifest.xml:18:3-42
 	android:targetSdkVersion
 		INJECTED from H:\JJtimer\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from H:\JJtimer\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb2172090e237e802ff0cf35dc4f92ce\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c86e1cd53ce4ad2e8d07292e2c65e4ab\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c86e1cd53ce4ad2e8d07292e2c65e4ab\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3570071b23c539e27c6358dfea34c4b2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\3570071b23c539e27c6358dfea34c4b2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\dc787e2fdd2468af71d3880d023d296a\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a7bc8761b0ded30cc4f3d29e9750e737\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a7bc8761b0ded30cc4f3d29e9750e737\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c1b3e2d15faedefa84ba87c09b54de2e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c1b3e2d15faedefa84ba87c09b54de2e\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb2172090e237e802ff0cf35dc4f92ce\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\dc787e2fdd2468af71d3880d023d296a\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb2172090e237e802ff0cf35dc4f92ce\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\dc787e2fdd2468af71d3880d023d296a\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb2172090e237e802ff0cf35dc4f92ce\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\dc787e2fdd2468af71d3880d023d296a\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb2172090e237e802ff0cf35dc4f92ce\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\dc787e2fdd2468af71d3880d023d296a\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb2172090e237e802ff0cf35dc4f92ce\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\dc787e2fdd2468af71d3880d023d296a\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb2172090e237e802ff0cf35dc4f92ce\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\dc787e2fdd2468af71d3880d023d296a\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\fb2172090e237e802ff0cf35dc4f92ce\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\dc787e2fdd2468af71d3880d023d296a\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c86e1cd53ce4ad2e8d07292e2c65e4ab\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a7bc8761b0ded30cc4f3d29e9750e737\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c86e1cd53ce4ad2e8d07292e2c65e4ab\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a7bc8761b0ded30cc4f3d29e9750e737\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c86e1cd53ce4ad2e8d07292e2c65e4ab\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\a7bc8761b0ded30cc4f3d29e9750e737\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
 activity#androidx.activity.ComponentActivity
-ADDED from [androidx.compose.ui:ui-test-manifest:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\10179e3cc36398c9ee484e3979bf347e\transformed\ui-test-manifest-1.7.5\AndroidManifest.xml:23:9-25:39
+ADDED from [androidx.compose.ui:ui-test-manifest:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\521c8f7db7cf0e4439c8acf507dca745\transformed\ui-test-manifest-1.7.5\AndroidManifest.xml:23:9-25:39
 	android:exported
-		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\10179e3cc36398c9ee484e3979bf347e\transformed\ui-test-manifest-1.7.5\AndroidManifest.xml:25:13-36
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\521c8f7db7cf0e4439c8acf507dca745\transformed\ui-test-manifest-1.7.5\AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\10179e3cc36398c9ee484e3979bf347e\transformed\ui-test-manifest-1.7.5\AndroidManifest.xml:24:13-63
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\521c8f7db7cf0e4439c8acf507dca745\transformed\ui-test-manifest-1.7.5\AndroidManifest.xml:24:13-63
 activity#androidx.compose.ui.tooling.PreviewActivity
-ADDED from [androidx.compose.ui:ui-tooling-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\df4d8bb5a43323a26a5045b55e381937\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c567ed03a5d0fbe5b8479a49dd12133b\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
 	android:exported
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\df4d8bb5a43323a26a5045b55e381937\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c567ed03a5d0fbe5b8479a49dd12133b\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\df4d8bb5a43323a26a5045b55e381937\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.5] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\c567ed03a5d0fbe5b8479a49dd12133b\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f76c65311b9d0483e9c70219b029df2e\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\97f68d588e3e15ff4d7a1d89bbe00cdd\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f76c65311b9d0483e9c70219b029df2e\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\97f68d588e3e15ff4d7a1d89bbe00cdd\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f76c65311b9d0483e9c70219b029df2e\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\97f68d588e3e15ff4d7a1d89bbe00cdd\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
 permission#com.example.jjtimer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f76c65311b9d0483e9c70219b029df2e\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\97f68d588e3e15ff4d7a1d89bbe00cdd\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f76c65311b9d0483e9c70219b029df2e\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\97f68d588e3e15ff4d7a1d89bbe00cdd\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f76c65311b9d0483e9c70219b029df2e\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\97f68d588e3e15ff4d7a1d89bbe00cdd\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f76c65311b9d0483e9c70219b029df2e\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\97f68d588e3e15ff4d7a1d89bbe00cdd\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f76c65311b9d0483e9c70219b029df2e\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\97f68d588e3e15ff4d7a1d89bbe00cdd\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
 uses-permission#com.example.jjtimer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f76c65311b9d0483e9c70219b029df2e\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\97f68d588e3e15ff4d7a1d89bbe00cdd\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\f76c65311b9d0483e9c70219b029df2e\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.15.0] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\97f68d588e3e15ff4d7a1d89bbe00cdd\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\b7b4091f25ac4d4361cd5f01838d1aba\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\joana\.gradle\caches\9.0-milestone-1\transforms\7e16a783879b3a72e644a3063c57d12e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

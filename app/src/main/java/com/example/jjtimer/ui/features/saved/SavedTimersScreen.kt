@@ -24,7 +24,6 @@ import com.example.jjtimer.ui.theme.BlueAccent
 import com.example.jjtimer.ui.theme.NavyDark
 
 @Composable
-@Composable
 fun SavedTimersScreen(
     viewModel: SavedTimersViewModel = viewModel(),
     onNavigateToConfig: (String?) -> Unit
@@ -89,7 +88,7 @@ fun TimerPresetItem(
                 .fillMaxWidth()
                 .padding(16.dp),
             verticalAlignment = Alignment.CenterVertically,
-            horizontalArrangement = Arrangement.spaceBetween
+            horizontalArrangement = Arrangement.SpaceBetween
         ) {
             Column(modifier = Modifier.weight(1f)) {
                 Text(

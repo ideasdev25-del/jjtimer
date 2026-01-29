@@ -21,6 +21,7 @@ import com.example.jjtimer.ui.components.TimerCircle
 import com.example.jjtimer.ui.theme.NavyDark
 import com.example.jjtimer.ui.theme.RedStop
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun TimerScreen(
     onClose: () -> Unit,
@@ -91,7 +92,7 @@ fun TimerScreen(
                 GlassCard(modifier = Modifier.weight(1f).padding(start = 8.dp), cornerRadius = 16.dp) {
                     Column(horizontalAlignment = Alignment.CenterHorizontally) {
                         Text("TOTAL TIME", style = MaterialTheme.typography.labelSmall, color = Color.Gray)
-                        Text("35m", style = MaterialTheme.typography.titleLarge, color = Color.White) // Mock
+                        Text("--", style = MaterialTheme.typography.titleLarge, color = Color.White)
                     }
                 }
             }
