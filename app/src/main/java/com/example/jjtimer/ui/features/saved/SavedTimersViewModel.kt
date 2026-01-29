@@ -10,14 +10,9 @@ import kotlinx.coroutines.flow.asStateFlow
 import javax.inject.Inject
 
 @HiltViewModel
-class SavedTimersViewModel @Inject constructor() : ViewModel() {
+class SavedTimersViewModel @Inject constructor(
+    private val repository: com.example.jjtimer.data.repository.TimerRepository
+) : ViewModel() {
 
-    private val _presets = MutableStateFlow<List<TimerPreset>>(emptyList())
-    val presets: StateFlow<List<TimerPreset>> = _presets.asStateFlow()
-
-    init {
-        // Load Mock Data
-        // Initialize with empty list
-        _presets.value = emptyList()
-    }
+    val presets: StateFlow<List<TimerPreset>> = repository.presets
 }
